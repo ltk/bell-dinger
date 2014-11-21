@@ -1,0 +1,19 @@
+body {
+  color: #666;
+  font-family: sans-serif;
+}
+
+select {
+  width: 50%;
+  margin-left: 25%;
+}
+
+p {
+  text-align: center;
+  width: 100%;
+}
+
+.instructions {
+  font-size: 2em;
+  margin-top: 45%;
+}
